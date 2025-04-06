@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍 I'm based in Israel
 * ✉️ You can contact me at [yeruslavk@gmail.com](mailto:yeruslavk@gmail.com)
-* 🔗 You can see my work at [Portfolio](https://yeruslavkportfolio.netlify.app/)
+* 🔗 You can see my work in my [Portfolio](https://yeruslavkportfolio.netlify.app/)
 * 📄 You can download my CV by pressing [Download](https://yeruslavkportfolio.netlify.app/assets/Yeruslav%20Krupetsky%20CV.pdf)
 * 🤝 You can connect with me via [Linkedin](https://linkedin.com/in/yeruslavkrupetsky)
   
