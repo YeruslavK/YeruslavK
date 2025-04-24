@@ -125,4 +125,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
+### LeetCode Badges
+
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=yeruslavk&theme=tokyonight&filter=annual)
+
+---
+
+### Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/0b4fbdc9-5f1f-4afe-9b84-151f4f3f3bcb/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url)
+
