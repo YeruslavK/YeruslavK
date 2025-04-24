@@ -131,7 +131,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### Certifications
+### 🎓 Certifications
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/0b4fbdc9-5f1f-4afe-9b84-151f4f3f3bcb/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url)
+<div style="border: 2px solid #e4e4e4; border-radius: 10px; padding: 20px; max-width: 400px; background-color: #ffffff;">
 
+  <a href="https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certified Cloud Practitioner Badge" />
+  </a>
+
+  <h4 style="margin-top: 10px;">AWS Certified Cloud Practitioner</h4>
+  <p style="margin: 0;">Issued by <strong>Amazon Web Services (AWS)</strong></p>
+  <a href="https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url" target="_blank" rel="noreferrer">🔗 View Credential</a>
+
+</div>
+
+---
