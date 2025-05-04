@@ -133,16 +133,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🎓 Certifications
 
-<div style="border: 2px solid #e4e4e4; border-radius: 10px; padding: 20px; max-width: 400px; background-color: #ffffff;">
-
-  <a href="https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certified Cloud Practitioner Badge" />
-  </a>
-
-  <h4 style="margin-top: 10px;">AWS Certified Cloud Practitioner</h4>
-  <p style="margin: 0;">Issued by <strong>Amazon Web Services (AWS)</strong></p>
-  <a href="https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url" target="_blank" rel="noreferrer">🔗 View Credential</a>
-
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <div style="border: 2px solid #e4e4e4; border-radius: 10px; padding: 20px; background-color: #ffffff; width: 300px;">
+        <a href="https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url" target="_blank" rel="noreferrer">
+          <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Badge" />
+        </a>
+        <h4 style="margin-top: 10px;">AWS Certified Cloud Practitioner</h4>
+        <p style="margin: 0;">Issued by <strong>AWS</strong></p>
+        <a href="https://www.credly.com/badges/6a2fccbd-6370-4db9-a010-808b228497a8/public_url" target="_blank" rel="noreferrer">🔗 View Credential</a>
+      </div>
+    </td>
+    <td align="center" valign="top" style="padding: 10px;">
+      <div style="border: 2px solid #e4e4e4; border-radius: 10px; padding: 20px; background-color: #ffffff; width: 300px;">
+        <a href="https://www.credly.com/badges/46848538-37b3-4375-998b-b89d73361458/public_url" target="_blank" rel="noreferrer">
+          <img src="https://images.credly.com/size/110x110/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="100" alt="Google AI Badge" />
+        </a>
+        <h4 style="margin-top: 10px;">Google AI Essentials</h4>
+        <p style="margin: 0;">Issued by <strong>Google</strong></p>
+        <a href="https://www.credly.com/badges/46848538-37b3-4375-998b-b89d73361458/public_url" target="_blank" rel="noreferrer">🔗 View Credential</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
